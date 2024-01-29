@@ -1,0 +1,14 @@
+{
+  "clientes": [
+    {
+      "nombre": "Crear entidades ",
+      "apellido": "rodriguez",
+      "email": "admin_karla@gmail.com",
+      "telefono": "123-123-1233",
+      "empresa": "cors",
+      "puesto": "desarrollador full stack",
+      "estado": 1,
+      "id": 2
+    }
+  ]
+}
